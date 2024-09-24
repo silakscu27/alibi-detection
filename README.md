@@ -1,2 +1,2 @@
 # alibi-detection
- Alibi is one of the X-AI models.
+Alibi is one of the X-AI models, designed to provide robust explanations for machine learning predictions. It offers a variety of explainability techniques, such as counterfactuals, feature attribution, and anchor-based explanations, making it a powerful tool for interpreting complex AI models. Alibi supports a wide range of use cases, from debugging models to ensuring fairness and transparency, and can be easily integrated into existing machine learning workflows. Its modular architecture and open-source nature allow developers to customize and extend the framework to fit their specific needs.
